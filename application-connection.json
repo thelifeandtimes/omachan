@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "runtime": "python3",
+  "authority": "eyre-owner-session",
+  "entry": "plugin/receive_connection.py",
+  "files": [
+    "manifest.json",
+    "application-connection.json",
+    "plugin/receive_connection.py",
+    "plugin/app_connection/__init__.py",
+    "plugin/app_connection/instance.py",
+    "plugin/app_connection/journal.py",
+    "plugin/app_connection/offer.py",
+    "plugin/app_connection/store.py"
+  ]
+}

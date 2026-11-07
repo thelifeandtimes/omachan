@@ -1,0 +1,9 @@
+:~  title+'Omachan'
+    info+'Anonymous gossip and signed Omarchy peer discovery'
+    color+0xd0.e38b
+    site+/apps/omachan
+    base+'omachan'
+    version+[0 1 0]
+    website+'https://github.com/fang-/suite'
+    license+'MIT'
+==

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "urbit.omachan",
+  "name": "Omachan",
+  "version": "0.4.1",
+  "author": "thelifeandtimes",
+  "description": "Anonymous neighborhood gossip and signed Omarchy peer discovery",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "plugin/Omachan.qml"
+  },
+  "barWidget": {
+    "displayName": "Omachan",
+    "category": "Social",
+    "allowMultiple": false,
+    "defaultSection": "right",
+    "defaults": {},
+    "schema": []
+  }
+}
